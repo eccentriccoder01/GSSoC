@@ -50,7 +50,7 @@ This repo provides **two automation scripts** for fetching and scoring contribut
 
 Both scripts read contributor details (Sheet 1) and write points to another sheet (Sheet 2).
 
-* **Sheet 1 (Contributor Details)** should have columns:
+* **Sheet 1 (Contributor Details)** should have columns (Link is already put, you don't have to change this):
 
   * `full_name`
   * `email`
